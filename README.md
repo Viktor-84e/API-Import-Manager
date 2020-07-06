@@ -14,3 +14,4 @@ There are 2 choices:
 After that copy ImportManager.py, im_GUI.py, vi_utils.py and logo.JPG to your local PC and runImportManager.py<BR>
 2) Also there is ImportManager.exe - utility's version compiled for Windows, you could try to use it. It doesn't need installation.
 ![Screenshot](screen.jpg?raw=true "Screenshot")
+[![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/Viktor-84e/API-Import-Manager)
